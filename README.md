@@ -2,8 +2,8 @@
     # * Take a screenshot of the address, balance, and transaction (TX) count.
     # Save this screenshot to the README.md file of your GitHub repository for
     #  this Challenge assignment.
-    
-    ![image](https://user-images.githubusercontent.com/86637747/151670485-1f1d13fd-e494-45fe-834e-1e663e39e23c.png)
+  
+  ![image](https://user-images.githubusercontent.com/86637747/151670530-ce48c70f-4597-466c-9ccb-e6df6a45fb4b.png)
 
 
 # 6. Navigate to the Ganache transactions tab and locate the transaction.
